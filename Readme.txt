@@ -1,0 +1,1 @@
+Written Programs in annonymous function,IIFE function and arrow function
