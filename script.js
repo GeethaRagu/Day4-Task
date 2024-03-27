@@ -246,4 +246,4 @@ var rotate = (arr, numberOfShifts) => {
   }
   return arr;
 };
-console.log("8.Rotate an array by k times using arrow function;- "+rotate([2, 4, 6, 8, 10], 3));
+console.log("8.Rotate an array by k times using arrow function;- "+rotate([2, 4, 6, 8, 10], 5));
